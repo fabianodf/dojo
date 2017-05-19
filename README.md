@@ -1,6 +1,6 @@
 ejb-remote: Cliente EJB remoto
 =====================================
-Autor: jáder belarmino  
+Autor: ~~jáder belarmino~~ Fabiano Paiva  
 nível: básico  
 Tecnologias: EJB, JNDI  
 Resumo: Como executar um EJB remoto.  
